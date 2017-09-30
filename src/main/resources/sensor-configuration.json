@@ -1,0 +1,28 @@
+{
+  "floorSensors": [
+    {
+      "floorNumber": "floor-1",
+      "sensors": [
+        "a1",
+        "a2",
+        "a3"
+      ]
+    },
+    {
+      "floorNumber": "floor-2",
+      "sensors": [
+        "b1",
+        "b2",
+        "b3"
+      ]
+    },
+    {
+      "floorNumber": "floor-3",
+      "sensors": [
+        "c1",
+        "c2",
+        "c3"
+      ]
+    }
+  ]
+}
